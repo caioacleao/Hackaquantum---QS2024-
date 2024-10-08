@@ -1,4 +1,4 @@
 # Hackaquantum - QS2024 
- Projetos do Hackaquantum relativos ao 2 Quantum Computing School do grupo 
+Notes + Hackaquantum challenge from the 2nd Computing School.
 
-Genessi Neto, Caio Almeida, Eduardo Soares, Joao Cardoso, Gabriel de Albuquerque.
+Group Members: Genessi Neto, Caio Almeida, Eduardo Soares, Joao Cardoso, Gabriel de Albuquerque.
